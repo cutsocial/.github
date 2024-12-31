@@ -1,2 +1,5 @@
-# .github
-Public profile of cutsocial
+# About Us
+At CutSocial, we are dedicated to advancing the frontiers of behavioral and social science research through innovative, technology-driven solutions. Our mission is to empower researchers and organizations with tools that are not only effective but also intuitive, bridging the gap between sophisticated methodologies and real-world usability. By leveraging the growing online presence and technological advancements, we aim to create platforms that enhance data collection, analysis, and visualization, enabling deeper insights into human behavior and social phenomena.
+
+Our flagship tool, **[Cut](https://cut.social)**, revolutionizes the way researchers engage with participants by offering adaptable and user-friendly instruments that extend beyond traditional surveys. In addition, our upcoming platform, 
+ **[Jamasp](https://jamasp.app)**, is set to transform wearable device research by providing seamless integration from data collection to advanced analysis. Together, our tools embody our commitment to fostering innovation, improving accessibility, and supporting meaningful research that drives societal progress. Whether it’s academic exploration, health sciences, or organizational studies, CutSocial is here to make impactful research more efficient and achievable.
