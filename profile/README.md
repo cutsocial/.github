@@ -1,5 +1,11 @@
-# About Us
-At CutSocial, we are dedicated to advancing the frontiers of behavioral and social science research through innovative, technology-driven solutions. Our mission is to empower researchers and organizations with tools that are not only effective but also intuitive, bridging the gap between sophisticated methodologies and real-world usability. By leveraging the growing online presence and technological advancements, we aim to create platforms that enhance data collection, analysis, and visualization, enabling deeper insights into human behavior and social phenomena.
+# Cut Social
 
-Our flagship tool, **[Cut](https://cut.social)**, revolutionizes the way researchers engage with participants by offering adaptable and user-friendly instruments that extend beyond traditional surveys. In addition, our upcoming platform, 
- **[Jamasp](https://jamasp.app)**, is set to transform wearable device research by providing seamless integration from data collection to advanced analysis. Together, our tools embody our commitment to fostering innovation, improving accessibility, and supporting meaningful research that drives societal progress. Whether it’s academic exploration, health sciences, or organizational studies, CutSocial is here to make impactful research more efficient and achievable.
+Open tools for running behavioral studies online, from The New School for Social Research.
+
+**[Lens](https://github.com/cutsocial/lens)** runs a whole study from one JSON file, at a link you can post on Prolific: survey pages, reaction-time tasks (Stroop, Go/No-Go, a two-choice task, N-back, the balloon risk task), economic games (dictator, ultimatum, dice allocation) and live two-player games where participants are paired as they arrive. It works on phones and computers, in English, Persian and Arabic, and has a [study builder](https://lens.cut.social/#/builder) that shows each page as participants will see it. [Try the demos](https://cut.social/demo.html).
+
+**[Jamasp](https://jamasp.app)** recruits people who already own a Fitbit through Prolific and, once they consent and link their device, collects their sleep, heart-rate and activity data automatically. A 2025 pilot ran with 41 participants over 65 days; its [code and aggregate data](https://github.com/cutsocial/jamasp-public) are public.
+
+**Cut** (2014–2018) was the original platform, built for live multiplayer economic games. Its games now run in Lens.
+
+More at [cut.social](https://cut.social).
